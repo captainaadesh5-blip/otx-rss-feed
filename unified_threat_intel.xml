@@ -1,0 +1,379 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Unified Threat Intelligence Feed (OTX + URLhaus)</title><link>https://otx.alienvault.com</link><description>Threat actor profiles, MITRE ATT&amp;CK TTPs, industries, and IOCs (URLs, IPs, domains, hashes) from multiple intelligence sources</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 16 Jan 2026 11:14:34 +0000</lastBuildDate><item><title>[URLhaus] </title><link>http://91.92.241.237/rletysru.JS</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; &lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://91.92.241.237/rletysru.JS&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 08:30:28</title><link>http://115.48.160.255:34062/i</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 08:30:28&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://115.48.160.255:34062/i&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 08:34:24</title><link>http://222.136.137.200:35409/i</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 08:34:24&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://222.136.137.200:35409/i&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] </title><link>https://github.com/olurmerve6-cloud/yyyy/raw/refs/heads/main/foto.apk</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; &lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;https://github.com/olurmerve6-cloud/yyyy/raw/refs/heads/main/foto.apk&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 08:36:09</title><link>https://github.com/amorboxtv/amyicin/raw/refs/heads/main/inat%20TV.apk</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 08:36:09&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;https://github.com/amorboxtv/amyicin/raw/refs/heads/main/inat%20TV.apk&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] </title><link>https://github.com/selimsallaks2-blip/aaf/raw/refs/heads/main/foto.apk</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; &lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;https://github.com/selimsallaks2-blip/aaf/raw/refs/heads/main/foto.apk&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 08:36:34</title><link>https://github.com/gulersevinc413-cell/sdafds/raw/refs/heads/main/inat%20TV.apk</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 08:36:34&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;https://github.com/gulersevinc413-cell/sdafds/raw/refs/heads/main/inat%20TV.apk&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 10:21:26</title><link>https://jkemdr.hoyenoy.com/shurufa15.14.zip</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 10:21:26&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;https://jkemdr.hoyenoy.com/shurufa15.14.zip&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 08:53:27</title><link>http://182.119.121.37:47397/bin.sh</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 08:53:27&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://182.119.121.37:47397/bin.sh&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 08:57:26</title><link>http://61.52.43.96:42889/bin.sh</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 08:57:26&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://61.52.43.96:42889/bin.sh&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 09:01:27</title><link>http://182.126.90.89:45707/i</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 09:01:27&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://182.126.90.89:45707/i&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 09:01:28</title><link>http://219.155.14.150:47369/i</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 09:01:28&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://219.155.14.150:47369/i&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 09:02:26</title><link>http://123.14.176.113:49801/i</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 09:02:26&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://123.14.176.113:49801/i&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 09:03:26</title><link>http://123.4.184.147:53952/bin.sh</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 09:03:26&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://123.4.184.147:53952/bin.sh&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 09:04:25</title><link>http://123.233.79.165:40346/i</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 09:04:25&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://123.233.79.165:40346/i&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 09:05:23</title><link>http://178.236.70.50:45012/i</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 09:05:23&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://178.236.70.50:45012/i&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 09:05:23</title><link>http://175.168.207.227:53441/i</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 09:05:23&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://175.168.207.227:53441/i&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 09:06:24</title><link>http://27.215.208.138:45608/i</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 09:06:24&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://27.215.208.138:45608/i&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 09:06:25</title><link>http://222.137.209.129:57812/i</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 09:06:25&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://222.137.209.129:57812/i&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 09:06:26</title><link>http://125.43.88.61:38060/i</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 09:06:26&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://125.43.88.61:38060/i&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 09:06:42</title><link>http://59.182.66.181:42049/bin.sh</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 09:06:42&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://59.182.66.181:42049/bin.sh&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 09:16:21</title><link>http://182.119.121.37:47397/i</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 09:16:21&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://182.119.121.37:47397/i&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 09:19:15</title><link>http://61.52.43.96:42889/i</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 09:19:15&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://61.52.43.96:42889/i&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 09:20:10</title><link>http://151.75.65.240:26181/.i</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 09:20:10&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://151.75.65.240:26181/.i&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 09:31:09</title><link>http://59.182.66.181:42049/i</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 09:31:09&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://59.182.66.181:42049/i&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 09:43:16</title><link>http://119.114.152.178:34737/i</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 09:43:16&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://119.114.152.178:34737/i&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 10:11:17</title><link>http://125.45.65.67:41771/bin.sh</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 10:11:17&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://125.45.65.67:41771/bin.sh&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] </title><link>http://82.221.139.173:3712/ssh.sh</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; &lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://82.221.139.173:3712/ssh.sh&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 10:38:17</title><link>http://125.45.65.67:41771/i</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 10:38:17&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://125.45.65.67:41771/i&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[URLhaus] 2026-01-16 11:00:22</title><link>http://222.142.199.92:48110/bin.sh</link><description>
+&lt;b&gt;Threat:&lt;/b&gt; 2026-01-16 11:00:22&lt;br/&gt;
+&lt;b&gt;Malicious URL:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://222.142.199.92:48110/bin.sh&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; URLhaus (abuse.ch)&lt;br/&gt;
+&lt;b&gt;Confidence:&lt;/b&gt; High (active malware hosting)
+</description><pubDate>Fri, 16 Jan 2026 11:14:37 +0000</pubDate></item><item><title>[Threat] Kimsuky Distributing Malicious Mobile App via QR Code</title><link>https://otx.alienvault.com/pulse/694173582a3c2e9751091e7b</link><description>
+&lt;b&gt;Threat Actor:&lt;/b&gt; Unknown&lt;br/&gt;
+&lt;b&gt;Industry Targeted:&lt;/b&gt; Not specified&lt;br/&gt;&lt;br/&gt;
+
+&lt;b&gt;MITRE ATT&amp;CK:&lt;/b&gt;&lt;br/&gt;
+T1566 – Phishing&lt;br/&gt;T1204 – User Execution&lt;br/&gt;&lt;br/&gt;
+
+&lt;b&gt;URLs:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Domains:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;hunt.io&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;IP Addresses:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;File Hashes:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;03a117c6cb86859623720e75f839260a
+27ea7ef88724c51bbe3ad42853bbc204
+2a7dab4c0f6507bc5fd826f9a336d50c
+2b99603cd8e69f82c064856d6ff63996
+36677d732da69b7a81a46f9a06c36260
+3a2a9f205c79ee45a84e3d862884fd72
+436287ad0ea3a9e94cd4574d54d0dec5
+506e136336ca9d7246caf8c9011fe97e
+858588b7c5331c948fb3e84d9b4ddbb7
+86da5e00a9c73c9cb0855805cbc38c4a&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; AlienVault OTX&lt;br/&gt;
+&lt;b&gt;Reference:&lt;/b&gt;
+&lt;a href="https://otx.alienvault.com/pulse/694173582a3c2e9751091e7b"&gt;
+View full analysis
+&lt;/a&gt;
+</description><pubDate>Tue, 16 Dec 2025 14:57:28 +0000</pubDate></item><item><title>[Threat] Command &amp; Evade: Turla's Kazuar v3 Loader</title><link>https://otx.alienvault.com/pulse/696905e2a033eb16b7a661e0</link><description>
+&lt;b&gt;Threat Actor:&lt;/b&gt; Unknown&lt;br/&gt;
+&lt;b&gt;Industry Targeted:&lt;/b&gt; Not specified&lt;br/&gt;&lt;br/&gt;
+
+&lt;b&gt;MITRE ATT&amp;CK:&lt;/b&gt;&lt;br/&gt;
+T1218.011 – Unknown Technique&lt;br/&gt;T1056.001 – Unknown Technique&lt;br/&gt;T1140 – Unknown Technique&lt;br/&gt;T1055 – Unknown Technique&lt;br/&gt;T1112 – Unknown Technique&lt;br/&gt;T1547.001 – Unknown Technique&lt;br/&gt;T1027 – Obfuscated Files or Information&lt;br/&gt;T1573 – Unknown Technique&lt;br/&gt;T1573.002 – Unknown Technique&lt;br/&gt;T1095 – Unknown Technique&lt;br/&gt;T1012 – Unknown Technique&lt;br/&gt;T1027.002 – Unknown Technique&lt;br/&gt;T1574.002 – Unknown Technique&lt;br/&gt;T1055.001 – Unknown Technique&lt;br/&gt;&lt;br/&gt;
+
+&lt;b&gt;URLs:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;https://185.126.255.132/requestor.php
+https://arianeconseil.online/wp-includes/sitemaps/html/
+https://download.originalapk.com/wp-content/plugins/loginizer/styles/
+https://portal.northernfruit.com/wp-content/plugins/file-away/core/&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Domains:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;arianeconseil.online
+esetcloud.com
+hostiko.com.ua&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;IP Addresses:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;185.126.255.132&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;File Hashes:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;be9fa93e088eb1c3daa9715d8b841cf0
+166783244f50dc3a484ae46e204ae5e05621c651
+34b7df7919dbbe031b5d802accb566ce6e91df4155b1858c3c81e4c003f1168c
+3db10e71dab8710fb69b5c65c48382f43be3e4c79456d7a7abd5a7059873f581
+436cfce71290c2fc2f2c362541db68ced6847c66a73b55487e5e5c73b0636c85
+458ca514e058fccc55ee3142687146101e723450ebd66575c990ca55f323c769
+69908f05b436bd97baae56296bf9b9e734486516f9bb9938c2b8752e152315d4
+6eb31006ca318a21eb619d008226f08e287f753aec9042269203290462eaa00d
+866824f2474ad603576b12b83831b2acc12d378f0ef4d0b20df10639b04c44da
+b755e4369f1ac733da8f3e236c746eda94751082a3031e591b6643a596a86acb&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; AlienVault OTX&lt;br/&gt;
+&lt;b&gt;Reference:&lt;/b&gt;
+&lt;a href="https://otx.alienvault.com/pulse/696905e2a033eb16b7a661e0"&gt;
+View full analysis
+&lt;/a&gt;
+</description><pubDate>Thu, 15 Jan 2026 15:21:06 +0000</pubDate></item><item><title>[Threat] Hunting Lazarus: Inside the Contagious Interview C2 Infrastructure</title><link>https://otx.alienvault.com/pulse/696906e9a75ab32473305b6d</link><description>
+&lt;b&gt;Threat Actor:&lt;/b&gt; Unknown&lt;br/&gt;
+&lt;b&gt;Industry Targeted:&lt;/b&gt; Not specified&lt;br/&gt;&lt;br/&gt;
+
+&lt;b&gt;MITRE ATT&amp;CK:&lt;/b&gt;&lt;br/&gt;
+T1053.005 – Unknown Technique&lt;br/&gt;T1059.007 – Unknown Technique&lt;br/&gt;T1539 – Unknown Technique&lt;br/&gt;T1036.005 – Unknown Technique&lt;br/&gt;T1204.002 – Unknown Technique&lt;br/&gt;T1573.001 – Unknown Technique&lt;br/&gt;T1555 – Unknown Technique&lt;br/&gt;T1547.001 – Unknown Technique&lt;br/&gt;T1562.001 – Unknown Technique&lt;br/&gt;T1573.002 – Unknown Technique&lt;br/&gt;T1059.006 – Unknown Technique&lt;br/&gt;T1496 – Unknown Technique&lt;br/&gt;T1027.002 – Unknown Technique&lt;br/&gt;T1566.003 – Unknown Technique&lt;br/&gt;T1102.001 – Unknown Technique&lt;br/&gt;T1048.003 – Unknown Technique&lt;br/&gt;&lt;br/&gt;
+
+&lt;b&gt;URLs:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Domains:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;IP Addresses:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;147.124.212.125
+147.124.213.232
+216.250.251.87
+45.43.11.199
+45.59.163.55
+66.235.168.238
+66.235.63.55&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;File Hashes:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;40b59567a2b580f1952dadae5dd586895b2316e590b84842f89aed1675f2d707&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; AlienVault OTX&lt;br/&gt;
+&lt;b&gt;Reference:&lt;/b&gt;
+&lt;a href="https://otx.alienvault.com/pulse/696906e9a75ab32473305b6d"&gt;
+View full analysis
+&lt;/a&gt;
+</description><pubDate>Thu, 15 Jan 2026 15:25:29 +0000</pubDate></item><item><title>[Threat] CastleLoader Malware Analysis: Full Execution Breakdown</title><link>https://otx.alienvault.com/pulse/6969099d2879e4c697a45427</link><description>
+&lt;b&gt;Threat Actor:&lt;/b&gt; Unknown&lt;br/&gt;
+&lt;b&gt;Industry Targeted:&lt;/b&gt; Not specified&lt;br/&gt;&lt;br/&gt;
+
+&lt;b&gt;MITRE ATT&amp;CK:&lt;/b&gt;&lt;br/&gt;
+N/A&lt;br/&gt;&lt;br/&gt;
+
+&lt;b&gt;URLs:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;http://94.159.113.32/service
+http://94.159.113.32:80/service&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Domains:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;IP Addresses:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;94.159.113.32&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;File Hashes:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;1e0f94e8ec83c1879ccd25fec59098f1
+9a0960c674378a049b8d9ad0e1c641c3
+afbaba49796528c053938e0397f238ff
+0580a364ab986b051398a78d089300cf73481e70
+9e11e8866f40e5e9c20b1f012d0b68e0d56e85b3
+dd029cd4711c773f87377d45a005c8d9785281a3
+8b7c1657f4d5cf0cc82d68c1f1a385adf0de27d46fc544bba249698e6b427856
+dfaf277d54c1b1cf5a3af80783ed878cac152ff2c52dbf17fb05a7795fe29e79
+fddc186f3e5e14b2b8e68ddbd18b2bda41d38a70417a38e67281eb7995e24bac&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; AlienVault OTX&lt;br/&gt;
+&lt;b&gt;Reference:&lt;/b&gt;
+&lt;a href="https://otx.alienvault.com/pulse/6969099d2879e4c697a45427"&gt;
+View full analysis
+&lt;/a&gt;
+</description><pubDate>Thu, 15 Jan 2026 15:37:01 +0000</pubDate></item><item><title>[Threat] BlindEagle Targets Colombian Government Agency with Caminho and DCRAT</title><link>https://otx.alienvault.com/pulse/69421a1f3d6e9eac9a0ce057</link><description>
+&lt;b&gt;Threat Actor:&lt;/b&gt; Unknown&lt;br/&gt;
+&lt;b&gt;Industry Targeted:&lt;/b&gt; Not specified&lt;br/&gt;&lt;br/&gt;
+
+&lt;b&gt;MITRE ATT&amp;CK:&lt;/b&gt;&lt;br/&gt;
+T1053.005 – Unknown Technique&lt;br/&gt;T1047 – Unknown Technique&lt;br/&gt;T1059.007 – Unknown Technique&lt;br/&gt;T1204.002 – Unknown Technique&lt;br/&gt;T1497.001 – Unknown Technique&lt;br/&gt;T1566.001 – Spearphishing Attachment&lt;br/&gt;T1140 – Unknown Technique&lt;br/&gt;T1586.002 – Unknown Technique&lt;br/&gt;T1608.001 – Unknown Technique&lt;br/&gt;T1583.001 – Unknown Technique&lt;br/&gt;T1588.001 – Unknown Technique&lt;br/&gt;T1059.001 – PowerShell&lt;br/&gt;T1547.001 – Unknown Technique&lt;br/&gt;T1562.001 – Unknown Technique&lt;br/&gt;T1055.012 – Unknown Technique&lt;br/&gt;T1095 – Unknown Technique&lt;br/&gt;T1027.003 – Unknown Technique&lt;br/&gt;T1105 – Ingress Tool Transfer&lt;br/&gt;T1204.001 – Unknown Technique&lt;br/&gt;&lt;br/&gt;
+
+&lt;b&gt;URLs:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Domains:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;IP Addresses:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;File Hashes:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;4284e99939cebf40b8699bed31c82fd6
+961ebce4327b18b39630bfc4edb7ca34
+9799484e3942a6692be69aec1093cb6c
+97adb364d695588221d0647676b8e565
+bbb99dfd9bf3a2638e2e9d13693c731c
+c98eb5fcddf0763c7676c99c285f6e80
+d80237d48e1bbc2fdda741cbf006851a
+21e95fed5fc5c4a10fafbc3882768cce1f6cd7af
+38b0e360d58d4ddb17c0a2c4d97909be43a3adc0
+3983a5b4839598ba494995212544da05087b811b&lt;/pre&gt;&lt;br/&gt;
+
+&lt;b&gt;Source:&lt;/b&gt; AlienVault OTX&lt;br/&gt;
+&lt;b&gt;Reference:&lt;/b&gt;
+&lt;a href="https://otx.alienvault.com/pulse/69421a1f3d6e9eac9a0ce057"&gt;
+View full analysis
+&lt;/a&gt;
+</description><pubDate>Wed, 17 Dec 2025 02:49:03 +0000</pubDate></item></channel></rss>
