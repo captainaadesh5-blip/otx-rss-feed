@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>AlienVault OTX – Latest IOC Pulses</title>
+    <link>https://otx.alienvault.com</link>
+    <description>Latest threat intelligence pulses and IOCs from AlienVault OTX</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Jan 2026 13:20:11 +0000</lastBuildDate>
+    <item>
+      <title>PDFSIDER Malware - Exploitation of DLL Side-Loading for AV and EDR Evasion</title>
+      <link>https://otx.alienvault.com/pulse/696d289a872523c04861cbfa</link>
+      <description>
+&lt;b&gt;Author:&lt;/b&gt; AlienVault&lt;br/&gt;
+&lt;b&gt;Tags:&lt;/b&gt; &lt;br/&gt;&lt;br/&gt;
+&lt;b&gt;IOCs:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;FileHash-MD5: 298cbfc6a5f6fa041581233278af9394
+FileHash-MD5: 80e4a29270b828c1f97d9cde9475fcbd
+FileHash-MD5: 96ff508f9be007062b1770691f489e62
+FileHash-MD5: 9f9dd5a432b4dde2160c7a7170e0d069
+FileHash-MD5: a32dc85eee2e1a579199050cd1941e1d
+FileHash-MD5: e0e674ec74d323e0588973aae901b5d2
+FileHash-SHA1: 1e4afbd3a2e903f61649c31f1a6be2a9cf475378
+FileHash-SHA1: 83e534ee501bd544ffc9e5aa3a4dee6d95008ac3
+FileHash-SHA1: b37a3e65f0330d0db2ae43426094e10e63fcdeaa
+FileHash-SHA1: c5890d45432bab5c1424cc03ed15b78eda5fcc4e&lt;/pre&gt;
+</description>
+      <pubDate>Sun, 18 Jan 2026 18:38:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>VoidLink threat analysis: C2-compiled kernel rootkits discovered</title>
+      <link>https://otx.alienvault.com/pulse/696dfaea399e526c7c237b35</link>
+      <description>
+&lt;b&gt;Author:&lt;/b&gt; AlienVault&lt;br/&gt;
+&lt;b&gt;Tags:&lt;/b&gt; &lt;br/&gt;&lt;br/&gt;
+&lt;b&gt;IOCs:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;IPv4: 8.149.128.10
+FileHash-MD5: 17dd7ee893698205c715eeff87496b37
+FileHash-MD5: 286bafae756d2bfe49784410a665897a
+FileHash-MD5: 2c1d348131c4e3e1cb00002f226bad7e
+FileHash-MD5: 4d8671ffc41252bc189b62699cb8cf90
+FileHash-MD5: 86b72ac9562623ccfa4815f7fa89b2cd
+FileHash-SHA1: 3355f84f97e06a74586fdb170d023ebc7545fa1a
+FileHash-SHA1: 5ffe44b04c0c47c83c1cd694b28c432fcde5867d
+FileHash-SHA1: 64c21741b1787fd811352370d15c02d4972fa975
+FileHash-SHA1: 6e18b212fb7bda2144a56303e72b1c54f6fdd473&lt;/pre&gt;
+</description>
+      <pubDate>Mon, 19 Jan 2026 09:35:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Remcos Campaign Distributed Through Fake Shipping Document</title>
+      <link>https://otx.alienvault.com/pulse/696dfbff6ee9b76a0ddd3292</link>
+      <description>
+&lt;b&gt;Author:&lt;/b&gt; AlienVault&lt;br/&gt;
+&lt;b&gt;Tags:&lt;/b&gt; &lt;br/&gt;&lt;br/&gt;
+&lt;b&gt;IOCs:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;CVE: CVE-2017-11882
+FileHash-MD5: 4238edec9db81a03085f26b93a6b1db5
+FileHash-MD5: b866e2d482f95e58baea09c060d661d6
+FileHash-SHA1: 21d5110f298c6b68864e00c81fe552d984c234b8
+FileHash-SHA1: dc0db3b61cf99e21a9ff6b0c5cd522f9dcac8a3a
+FileHash-SHA256: 7798059d678bca13eeeebb44a8db3588e4aa287701aede94b094b18f33b58f84
+FileHash-SHA256: 94ca3beeb0dfd3f02fe14de2e6fb0d26e29beb426aee911422b08465afbd2faa
+FileHash-SHA256: a35dd25cd31e4a7cca528dbfff37b5cdbb4076aac28b83fd4da397027402badd
+FileHash-SHA256: e915ce8f7271902fa7d270717a5c08e57014528f19c92266f7b192793d40972f
+IPv4: 216.9.224.26&lt;/pre&gt;
+</description>
+      <pubDate>Mon, 19 Jan 2026 09:40:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analyzing the MonetaStealer macOS Threat</title>
+      <link>https://otx.alienvault.com/pulse/696dfc668abad61800aaab13</link>
+      <description>
+&lt;b&gt;Author:&lt;/b&gt; AlienVault&lt;br/&gt;
+&lt;b&gt;Tags:&lt;/b&gt; &lt;br/&gt;&lt;br/&gt;
+&lt;b&gt;IOCs:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;CVE: CVE-2025-24277
+FileHash-SHA256: 1a5027adf99076470444c5ffdd83a4313ab1d21827700699d0ee6ab1337beb70
+FileHash-SHA256: 4885adc9de7e91b74a3ac01187775459acf3e4e026ee2fa776b3419cf8dbaf00
+FileHash-SHA256: 6f746388853178a3b4c2c91a6bd98438fb59e760caa273a8d6a4c03936498c39
+FileHash-SHA256: a01e57611537699d85e9767023638dbd88a224075a866c17509dc17d7e5ddbde&lt;/pre&gt;
+</description>
+      <pubDate>Mon, 19 Jan 2026 09:41:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Extension to Infection: An In-Depth Analysis of the Evelyn Stealer Campaign Targeting Software Developers</title>
+      <link>https://otx.alienvault.com/pulse/696f3fa3f361fed48d6ebf45</link>
+      <description>
+&lt;b&gt;Author:&lt;/b&gt; AlienVault&lt;br/&gt;
+&lt;b&gt;Tags:&lt;/b&gt; &lt;br/&gt;&lt;br/&gt;
+&lt;b&gt;IOCs:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;FileHash-MD5: 0acee8ed59c8d6e70ce6c22b5888c08c
+FileHash-MD5: 5c507b22e9814428c5f2b1ef213c5c4a
+FileHash-SHA1: b5e3c2bdc976bdf948422a9b2baebe8a221d2d92
+FileHash-SHA256: 2e649f6145f55988b920ff5a445e63aae29c80495b830e0d8bb4b3fff4b1f6f4
+FileHash-SHA256: 369479bd9a248c9448705c222d81ff1a0143343a138fc38fc0ea00f54fcc1598
+FileHash-SHA256: 74e43a0175179a0a04361faaaaf05eb1e6b84adca69e4f446ef82c0a5d1923d5
+FileHash-SHA256: 92af258d13494f208ccf76f53a36f288060543f02ed438531e0675b85da00430
+FileHash-SHA256: aba7133f975a0788dd2728b4bbb1d7d948e50571a033a1e8f47a2691e98600c5
+domain: syn1112223334445556667778889990.org
+hostname: server09.mentality.cloud&lt;/pre&gt;
+</description>
+      <pubDate>Tue, 20 Jan 2026 08:41:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT</title>
+      <link>https://otx.alienvault.com/pulse/696f41524ac07b77da95e91c</link>
+      <description>
+&lt;b&gt;Author:&lt;/b&gt; AlienVault&lt;br/&gt;
+&lt;b&gt;Tags:&lt;/b&gt; &lt;br/&gt;&lt;br/&gt;
+&lt;b&gt;IOCs:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;IPv4: 181.231.253.69
+FileHash-MD5: 02f85c386f67fac09629ebe5684f7fa0
+FileHash-MD5: 233a9dbcfe4ae348c0c7f4c2defd1ea5
+FileHash-MD5: 45f2a677b3bf994a8f771e611bb29f4f
+FileHash-MD5: 976b6fce10456f0be6409ff724d7933b
+FileHash-MD5: dc802b8c117a48520a01c98c6c9587b5
+FileHash-SHA1: 347f09e2589435af084b5f19fc12e8fbdee16e1b
+FileHash-SHA1: 427110f6a3741e57b93fa5ca7c6b7dc69b2b23d5
+FileHash-SHA1: 5d29707d63db3f6475351ecb91ec2fda661fc984
+FileHash-SHA1: c5981c6f73ecf7b9606c78e0526bd933585ec09f&lt;/pre&gt;
+</description>
+      <pubDate>Tue, 20 Jan 2026 08:48:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operation Nomad Leopard: Targeted Spear-Phishing Campaign Against Government Entities in Afghanistan</title>
+      <link>https://otx.alienvault.com/pulse/696f420d629a255b3d84814e</link>
+      <description>
+&lt;b&gt;Author:&lt;/b&gt; AlienVault&lt;br/&gt;
+&lt;b&gt;Tags:&lt;/b&gt; &lt;br/&gt;&lt;br/&gt;
+&lt;b&gt;IOCs:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;FileHash-SHA256: 5838c834482fb54f8a642d92e4ece7bbde03e161c2d02c4e70edbe05c8190955
+FileHash-SHA256: 63f6c85fc16b346cc3f18da9380aee6ffbb3e735863e2e8f118f38737e0d1348
+FileHash-SHA256: 6c8936fea2fe9cbbcc6135941ac5fb6ea7819530a0914d8c0f39a015c0f2055d
+FileHash-SHA256: f817f65edbc77f7bbdd6e4f469e82c0e770b7e221bdb348f366a475a8a39242b
+IPv4: 207.244.230.94
+hostname: theepad0loc93x.ddns.net&lt;/pre&gt;
+</description>
+      <pubDate>Tue, 20 Jan 2026 08:51:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Privilege Escalation Vulnerability in Modular DS plugin affecting 40k+ Sites exploited in the wild</title>
+      <link>https://otx.alienvault.com/pulse/696fb5415fec760ebc7d8da7</link>
+      <description>
+&lt;b&gt;Author:&lt;/b&gt; AlienVault&lt;br/&gt;
+&lt;b&gt;Tags:&lt;/b&gt; &lt;br/&gt;&lt;br/&gt;
+&lt;b&gt;IOCs:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;IPv4: 185.102.115.27
+IPv4: 45.11.89.19
+IPv4: 64.188.91.37&lt;/pre&gt;
+</description>
+      <pubDate>Tue, 20 Jan 2026 17:02:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>VVS Discord Stealer Using Pyarmor for Obfuscation and Detection Evasion</title>
+      <link>https://otx.alienvault.com/pulse/696fb542ca2b7837e2e4aade</link>
+      <description>
+&lt;b&gt;Author:&lt;/b&gt; AlienVault&lt;br/&gt;
+&lt;b&gt;Tags:&lt;/b&gt; &lt;br/&gt;&lt;br/&gt;
+&lt;b&gt;IOCs:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;FileHash-MD5: 273b1b1373cf25e054a61e2cb8a947b8
+FileHash-MD5: 68c252f048fd17f9a78ccd4537073678
+FileHash-MD5: b2fd0501bb7c59fb28b5e092252d14ca
+FileHash-SHA1: 39d5aa56ea1cf7851ac54457df150383e0b17ebc
+FileHash-SHA1: 55774f1014bee32a533f708044e6dc1b46542638
+FileHash-SHA256: 307d9cefa7a3147eb78c69eded273e47c08df44c2004f839548963268d19dd87
+FileHash-SHA256: 7a1554383345f31f3482ba3729c1126af7c1d9376abb07ad3ee189660c166a2b
+FileHash-SHA256: c7e6591e5e021daa30f949a6f6e0699ef2935d2d7c06ea006e3b201c52666e07&lt;/pre&gt;
+</description>
+      <pubDate>Tue, 20 Jan 2026 17:02:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside a Multi-Stage Windows Malware Campaign</title>
+      <link>https://otx.alienvault.com/pulse/696fc0723c9020d483708e56</link>
+      <description>
+&lt;b&gt;Author:&lt;/b&gt; AlienVault&lt;br/&gt;
+&lt;b&gt;Tags:&lt;/b&gt; &lt;br/&gt;&lt;br/&gt;
+&lt;b&gt;IOCs:&lt;/b&gt;&lt;br/&gt;
+&lt;pre&gt;FileHash-MD5: ea498b9d0f0ad35c8ea2c21bf98cc557
+FileHash-SHA1: 00f66065a4af319947a1004bb1dbb2c24b5e7fa3
+FileHash-SHA256: 1828614be6d9bdd92f7ee30e12c8aac8eba33a6df2c92995f9bf930c3f1b992b
+FileHash-SHA256: 263b5ba921e478215dc9e3a397157badab415fc775cfb4681821b7446c14fb1a
+FileHash-SHA256: 359fe8df31c903153667fbe93795929ad6172540b3ee7f9eff4bcc1da6d08478
+FileHash-SHA256: 3aa6ebb73390d304eef8fd897994906c05f3e967f8f6f6a7904c6156cf8819f9
+FileHash-SHA256: 45e942ba59f3876b263a03ed7e5d5b1b250e84a0a4b4093b3c13b5fca4e12b21
+FileHash-SHA256: 5443232a367a83ac2899b37c066dae3ec2010df292291db24ce3d744133218a6
+FileHash-SHA256: 6222775b877b4be4f5407525d52c5889739b96c302e5a204ef369b4a51c6dab2
+FileHash-SHA256: 71069a5d2a80a047ca36ca82e630d353829726d4f03a74c7522b7700c5c2bb59&lt;/pre&gt;
+</description>
+      <pubDate>Tue, 20 Jan 2026 17:50:42 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
