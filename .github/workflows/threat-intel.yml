@@ -26,7 +26,7 @@ jobs:
       env:
         OTX_API_KEY: ${{ secrets.OTX_API_KEY }}
       run: |
-        python Threat_Intel_feed.py
+        python otx_to_rss.py
 
     - name: Commit and push updated feed
       run: |
